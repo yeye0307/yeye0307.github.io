@@ -1,4 +1,6 @@
-https://github.com/yeye0307/yeye0307.github.io.git/2023/03/20/hello-world/
 https://github.com/yeye0307/yeye0307.github.io.git/2023/03/21/Typora/
-https://github.com/yeye0307/yeye0307.github.io.git/yeye/index.html
+https://github.com/yeye0307/yeye0307.github.io.git/about/Typora.html
+https://github.com/yeye0307/yeye0307.github.io.git/2023/03/20/hello-world/
 https://github.com/yeye0307/yeye0307.github.io.git
+https://github.com/yeye0307/yeye0307.github.io.git/tags/markdown/
+https://github.com/yeye0307/yeye0307.github.io.git/categories/Diary/
