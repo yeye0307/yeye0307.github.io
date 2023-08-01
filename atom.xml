@@ -6,7 +6,7 @@
   <link href="https://github.com/yeye0307/yeye0307.github.io.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/yeye0307/yeye0307.github.io.git/"/>
-  <updated>2023-04-03T02:01:04.000Z</updated>
+  <updated>2023-08-01T07:43:02.373Z</updated>
   <id>https://github.com/yeye0307/yeye0307.github.io.git/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Qexo的搭建</title>
+    <link href="https://github.com/yeye0307/yeye0307.github.io.git/2023/07/16/Qexo/"/>
+    <id>https://github.com/yeye0307/yeye0307.github.io.git/2023/07/16/Qexo/</id>
+    <published>2023-07-16T04:39:55.119Z</published>
+    <updated>2023-08-01T07:43:02.373Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="快速搭建Qexo"><a href="#快速搭建Qexo" class="headerlink" title="快速搭建Qexo"></a>快速搭建Qexo</h2><h3 id="Part-1-planetscale"><a href="#Part-1-planetscale" class="headerlink" title="Part 1.planetscale"></a>Part 1.planetscale</h3><h4 id="1-注册planetscale账号，创建mysql数据库"><a href="#1-注册planetscale账号，创建mysql数据库" class="headerlink" title="1.注册planetscale账号，创建mysql数据库"></a>1.注册planetscale账号，创建mysql数据库</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://app.planetscale.com/</span><br></pre></td></tr></table></figure><h4 id="2-查看数据库连接信息"><a href="#2-查看数据库连接信息" class="headerlink" title="2.查看数据库连接信息"></a>2.查看数据库连接信息</h4><p><font size=2 color=#123456> PASSWORD只能查看一次请注意保存</font></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">HOST=aws.connect.psdb.cloud</span><br><span class="line">USERNAME=jdpips5xobaz5c5ey1su</span><br><span class="line">PASSWORD=手动打码</span><br><span class="line">DATABASE=blogdb</span><br><span class="line"></span><br></pre></td></tr></table></figure><table><thead><tr><th>名称</th><th>意义</th><th>示例</th></tr></thead><tbody><tr><td>MYSQL_HOST</td><td>MySQL 数据库连接地址</td><td>aws.connect.psdb.cloud</td></tr><tr><td>MYSQL_PORT</td><td>MySQL 数据库通信端口 默认应填写 3306</td><td>3306</td></tr><tr><td>MYSQL_USER</td><td>MySQL 数据库用户名</td><td>jdpips5xobaz5c5ey1su</td></tr><tr><td>MYSQL_NAME</td><td>MySQL 数据库名</td><td>blogdb</td></tr><tr><td>MYSQL_PASSWORD</td><td>MySQL 数据库密码</td><td>填自己生成的</td></tr><tr><td>PLANETSCALE</td><td>(可选)用PlanetScale则设置为1</td><td>不要填，空着提交</td></tr></tbody></table><p>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</p><p>ESGnA42qGe5kHZo86EIY0lry</p><p><a href="https://vercel.com/dashboard/stores">Storage – Dashboard – Vercel</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;快速搭建Qexo&quot;&gt;&lt;a href=&quot;#快速搭建Qexo&quot; class=&quot;headerlink&quot; title=&quot;快速搭建Qexo&quot;&gt;&lt;/a&gt;快速搭建Qexo&lt;/h2&gt;&lt;h3 id=&quot;Part-1-planetscale&quot;&gt;&lt;a href=&quot;#Part-1-plan</summary>
+      
+    
+    
+    
+    <category term="Study" scheme="https://github.com/yeye0307/yeye0307.github.io.git/categories/Study/"/>
+    
+    
+    <category term="blog" scheme="https://github.com/yeye0307/yeye0307.github.io.git/tags/blog/"/>
+    
+  </entry>
   
   <entry>
     <title>数论结论题</title>
